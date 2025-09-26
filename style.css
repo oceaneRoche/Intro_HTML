@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+	color : red;
+}
+h2{
+	color : blue;
+}
+h3{
+	color : green;
+	}
+header {
+	background-color : #E8C5F0;
+}
+footer {
+	background-color : #AD8C86;
+}
+section {
+	background-color : #CF867C;
+}
